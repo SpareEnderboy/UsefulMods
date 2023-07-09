@@ -1,6 +1,6 @@
 # Performance Mods
 
-A list of performance-enhancing mods for 1.8.9 and below.
+Never gonna give you up
 
 Any suggestions/complaints?
 
